@@ -4,3 +4,6 @@ Repositori untuk menyimpan rencana Hill kedepannya
 # 1
 2
 3
+# Jam
+# Jadwal
+# Hari
